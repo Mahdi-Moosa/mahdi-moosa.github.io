@@ -87,10 +87,12 @@ extra:
       link: https://mahdimoosa.substack.com/
 
 extra_javascript:
+  # Table-sort implementation
   - javascripts/sorttable.js
   - javascripts/customsort.js
   # - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   # - javascripts/tablesort.js
+  
 
 
 copyright: Copyright &copy; 2024 Mahdi Moosa

@@ -23,7 +23,7 @@ There are 61 scheduled commercial banks in Bangladesh (source: [Bangladesh Bank]
 | AB Bank                                             | 255     | [https://abbl.com/ablocatorupdate/api/atm.php?_=1720249262525](https://abbl.com/ablocatorupdate/api/atm.php?_=1720249262525)               |
 | Agrani Bank                                         | 57      | [https://www.agranibank.org/index.php/locator/atmlist](https://www.agranibank.org/index.php/locator/atmlist)                               |
 | Al-Arafah Islami Bank                               | 235     | [https://www.aibl.com.bd/atm/](https://www.aibl.com.bd/atm/)                                                                               |
-| Bangladesh Commerce Bank                            | 3       | [https://www.banksbd.org/bcbl/atms]((https://www.banksbd.org/bcbl/atms))                                                                   |
+| Bangladesh Commerce Bank                            | 3       | [https://www.banksbd.org/bcbl/atms](https://www.banksbd.org/bcbl/atms)                                                                   |
 | Bangladesh Development Bank PLC                     | 0       |                                                                                                                                            |
 | Bangladesh Krishi Bank                              | 8       | [https://www.krishibank.org.bd/q-cash-atm-services/](https://www.krishibank.org.bd/q-cash-atm-services/)                                   |
 | Bank Al-Falah Limited                               | 6       | [https://www.bankalfalah.com/bd/branch-atm-locator/](https://www.bankalfalah.com/bd/branch-atm-locator/)                                   |
