@@ -87,7 +87,7 @@ extra:
       link: https://mahdimoosa.substack.com/
 
 extra_javascript:
-  # Table-sort implementation
+  # Table-sort implementation (inspiration: https://github.com/squidfunk/mkdocs-material/issues/1837#issuecomment-667135024)
   - javascripts/sorttable.js
   - javascripts/customsort.js
   # - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
