@@ -11,10 +11,7 @@ tags:
 # ATM Booths in Bangladesh
 
 ## Background
-There are 61 scheduled commercial banks in Bangladesh (source: [Bangladesh Bank](https://www.bb.org.bd/en/index.php/links/links/9)). Here, I have compiled the number of ATM (+CRM) booths for each banks. Might be useful to someone. Note that this data should be considered as a snapshot for July 2024. 
-
-Cheers!
-
+There are 61 scheduled commercial banks in Bangladesh (source: [Bangladesh Bank](https://www.bb.org.bd/en/index.php/links/links/9)). Here, I have compiled the number of ATM (+CRM) booths for each banks. Might be useful to someone. 
 <!-- more -->
 
 ## ATM booth data (Banks in Bangladesh)
@@ -84,3 +81,9 @@ Cheers!
 | United Commercial Bank PLC                          | 1096    | [https://www.ucb.com.bd/atm-locator](https://www.ucb.com.bd/atm-locator)                                                                   |
 | Uttara Bank PLC                                     | 32      | [https://www.uttarabank-bd.com/home/atms_advanced_search](https://www.uttarabank-bd.com/home/atms_advanced_search)                         |
 | Woori Bank                                          | <NA>    |                                                                                                                                            |
+
+## FYI & Outro
+
+Note: This data should be considered as a snapshot for July 2024. 
+
+Cheers!
