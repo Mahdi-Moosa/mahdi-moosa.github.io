@@ -82,7 +82,7 @@ There are 61 scheduled commercial banks in Bangladesh (source: [Bangladesh Bank]
 | Uttara Bank PLC                                     | 32      | [https://www.uttarabank-bd.com/home/atms_advanced_search](https://www.uttarabank-bd.com/home/atms_advanced_search)                         |
 | Woori Bank                                          | <NA>    |                                                                                                                                            |
 
-\* DBBL has many ATM machines at the same location. This is probably the reason behind the hugely inflated ATM Nos for DBBL.
+*\* DBBL has many ATM machines at the same location. This is probably the reason behind the hugely inflated ATM Nos for DBBL.*
 
 ## FYI & Outro
 
