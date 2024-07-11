@@ -92,7 +92,8 @@ extra_javascript:
   - javascripts/customsort.js
   # - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
   # - javascripts/tablesort.js
-  
+  # New-link open
+  - javascripts/target-blank.js
 
 
 copyright: Copyright &copy; 2024 Mahdi Moosa
