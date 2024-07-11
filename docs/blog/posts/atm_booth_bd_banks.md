@@ -6,7 +6,6 @@ tags:
   # - SQL
   # - Rand
 ---
----
 
 # ATM Booths in Bangladesh
 
