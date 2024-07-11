@@ -37,7 +37,7 @@ There are 61 scheduled commercial banks in Bangladesh (source: [Bangladesh Bank]
 | Commercial Bank of Ceylon Limited                   | 21      | [https://www.combank.net.bd/atm-network-locater/](https://www.combank.net.bd/atm-network-locater/)                                         |
 | Community Bank Bangladesh PLC                       | 108     | [https://www.communitybankbd.com/branches-atms/](https://www.communitybankbd.com/branches-atms/)                                           |
 | Dhaka Bank PLC                                      | 77      | [https://dhakabankltd.com/branches/](https://dhakabankltd.com/branches/)                                                                   |
-| Dutch-Bangla Bank PLC                               | 4907    | [https://app.dutchbanglabank.com/DBBLWeb/ATMLocation](https://app.dutchbanglabank.com/DBBLWeb/ATMLocation)                                 |
+| Dutch-Bangla Bank PLC*                               | 4907    | [https://app.dutchbanglabank.com/DBBLWeb/ATMLocation](https://app.dutchbanglabank.com/DBBLWeb/ATMLocation)                                 |
 | Eastern Bank PLC                                    | 168     | [https://www.ebl.com.bd/locator/atms](https://www.ebl.com.bd/locator/atms)                                                                 |
 | EXIM Bank PLC                                       | 323     | [https://www.eximbankbd.com/location/atm_locations](https://www.eximbankbd.com/location/atm_locations)                                     |
 | First Security Islami Bank PLC                      | 268     | [https://fsibplc.com/atm.php](https://fsibplc.com/atm.php)                                                                                 |
@@ -81,6 +81,8 @@ There are 61 scheduled commercial banks in Bangladesh (source: [Bangladesh Bank]
 | United Commercial Bank PLC                          | 1096    | [https://www.ucb.com.bd/atm-locator](https://www.ucb.com.bd/atm-locator)                                                                   |
 | Uttara Bank PLC                                     | 32      | [https://www.uttarabank-bd.com/home/atms_advanced_search](https://www.uttarabank-bd.com/home/atms_advanced_search)                         |
 | Woori Bank                                          | <NA>    |                                                                                                                                            |
+
+* DBBL has many ATM machines at the same location. This is probably the reason behind the hugely inflated ATM Nos for DBBL.
 
 ## FYI & Outro
 
