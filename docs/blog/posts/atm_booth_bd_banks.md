@@ -10,7 +10,7 @@ tags:
 # ATM Booths in Bangladesh
 
 ## Background
-There are 61 scheduled commercial banks in Bangladesh (source: [Bangladesh Bank](https://www.bb.org.bd/en/index.php/links/links/9)). Here, I have compiled the number of ATM (+CRM) booths for each banks. Might be useful to someone. 
+There are 62 scheduled commercial banks in Bangladesh (source: [Bangladesh Bank](https://www.bb.org.bd/en/index.php/financialactivity/bankfi)). Here, I have compiled the number of ATM (+CRM) booths for each banks. Might be useful to someone. 
 <!-- more -->
 
 ## ATM booth data (Banks in Bangladesh)
