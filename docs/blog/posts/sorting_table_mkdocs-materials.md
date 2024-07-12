@@ -49,5 +49,5 @@ extra_javascript:
 
 ## Outtro
 
-*Viola!* You should be good to go!
+*Viola!* You should be good to go!  :saluting_face:
 
