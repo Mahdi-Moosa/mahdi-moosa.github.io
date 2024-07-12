@@ -11,7 +11,7 @@ tags:
 ## Intro
 
 [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/) comes with a plugun that allows sorting table contents (plugin: [tablesort](https://squidfunk.github.io/mkdocs-material/reference/data-tables/)). The good thing is the plugin works quite well. The bad - well, it treats everything as strings by default. If you have numbers, you probably want to sort your column contents as *numbers* (not as *strings*). As per the documentation, tablesort provides for numbersort options that should be implementable with Material (doc link: [tablesort documnentation](http://tristen.ca/tablesort/demo/)). However, I was unable to do this easily.
-
+<!-- more -->
 ## Solution
 
 This solution is inspired by [facelessuser](https://github.com/facelessuser)'s implementation discussed [here](https://github.com/squidfunk/mkdocs-material/issues/1837#issuecomment-667135024). Steps are:
