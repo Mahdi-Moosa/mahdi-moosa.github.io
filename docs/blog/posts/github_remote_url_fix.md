@@ -11,7 +11,7 @@ tags:
 ## The problem
 I have been playing with Mkdocs Materials since yesterday. The name of the repo that hosted my blog source file(s) was named *mahdi_zone*. So the URL for the homepage kept on coming as mahdi-moosa.github.io/mahdi_zone with mahdi-moosa.github.io giving a 404 error.
 <!-- more -->
-After digging a while (and chatting with Gemini Advanced), I found out that if the repo is named as <my-username>.github.io then the homepage will be <my-username>.github.io. So, I changed the repo name from GitHub GUI. Removed remote repo (mahdi_zone) from the VS Code Source Control and tried to add the new repo by "Source Control> Three Dot Click (...)> Remote> Add". But I kept on getting the following error message: 
+After digging a while (and chatting with Gemini Advanced), I found out that if the repo is named as &lt;my-username\>.github.io then the homepage will be &lt;my-username>.github.io. So, I changed the repo name from GitHub GUI. Removed remote repo (mahdi_zone) from the VS Code Source Control and tried to add the new repo by "Source Control> Three Dot Click (...)> Remote> Add". But I kept on getting the following error message: 
 
 ```fatal: 'https-//github.com/Mahdi-Moosa/mahdi-moosa.github.io.git' is not a valid remote name```
 
