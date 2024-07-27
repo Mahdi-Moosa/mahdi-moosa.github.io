@@ -15,7 +15,7 @@ Links to many resources that I think are useful.
 
 
 ## File Sharing
-* Via HTTP from android phones: [Android App](https://play.google.com/store/apps/details?id=com.phlox.simpleserver&hl=en).
+* Android file share Via HTTP: [Android App](https://play.google.com/store/apps/details?id=com.phlox.simpleserver&hl=en).
 
 ## GitHub
 * Renaming a repo in VS code source control: [Blog post](https://mahdi-moosa.github.io/blog/2024/06/22/changing-github-remote-link/) 
