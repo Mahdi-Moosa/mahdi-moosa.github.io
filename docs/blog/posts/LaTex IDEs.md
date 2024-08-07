@@ -25,7 +25,7 @@ I have tried two approaches:
 Some feedback on these two approaches from my side:
 
 * LaTeX Workshop in VS Code is *offline*, whereas overleaf is *online*. 
-* Overleaf has no setup, LaTeX Workshop in VS Code requires setup/installation. I have used this [youTube tutorial](https://www.youtube.com/watch?v=triTgcyF_IA) to get LaTeX Workshop extension working in my VS Code.
+* Overleaf has no setup, LaTeX Workshop in VS Code requires setup/installation. I have used this [YouTube tutorial](https://www.youtube.com/watch?v=triTgcyF_IA) to get LaTeX Workshop extension working in my VS Code.
 * Overleaf is a *bit* easier (and more closer to [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) editors like MS Word or OpenOffice Writer) compared to using the VS Code extension.
 * Suggestions are better in overleaf (perhaps this could be improved with other extensions in VS Code - *I haven't looked into it!*).
 
