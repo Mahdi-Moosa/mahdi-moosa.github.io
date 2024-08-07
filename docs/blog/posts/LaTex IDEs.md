@@ -33,7 +33,7 @@ Some feedback on these two approaches from my side:
 
 My final recommendations:
 
-* If you want local/offline accessible LaTeX editor option (and you are already used to the VS Code interface), I think LaTeX Workshop extension in VS Code is an excillenet option.
-* If you want something that just works (and keeping your document in the cloud doesn't matter for you), then overleaf is probably the easier option.
+* If you want local/offline accessible LaTeX editor option (and you are already used to the VS Code interface), I think LaTeX Workshop extension in VS Code is an excellent option.
+* If you want something that just works (without any installation hassles and you are okay with keeping your document in the cloud), then overleaf is the way to go.
 
 *Note: Keeping an offline option available to you is probably not a bad idea. I learned this the hard way, recently (news: [internet shutdown in Bangladesh](https://www.aljazeera.com/news/2024/7/28/bangladesh-restores-mobile-internet-after-11-day-blackout-to-quell-protests))!*
