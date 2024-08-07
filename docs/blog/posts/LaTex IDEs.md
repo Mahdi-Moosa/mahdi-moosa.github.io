@@ -11,7 +11,7 @@ tags:
 # LaTeX Editors
 
 ## Motivation
-After years of procastrinating, finally, I started document writing in [LaTeX :simple-latex:](https://www.latex-project.org). I have always been a fan of gorgeous documents prepared by LaTeX, but never got the time (a more apt pharsing would be - *never got over procastrinating*) to try out properly. 
+After years of procastrinating, finally, I started seriously experimenting with [LaTeX :simple-latex:](https://www.latex-project.org). I have always been a fan of gorgeous documents prepared by LaTeX, but never got the time (a more apt pharsing would be - *never got over procastrinating*) to try out properly. 
 
 ## Tools
 I have tried two approaches: 
