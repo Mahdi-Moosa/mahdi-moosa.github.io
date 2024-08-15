@@ -24,3 +24,8 @@ Links to many resources that I think are useful.
 
 ## LaTeX
 * Setting up LaTeX in VS Code: [YouTube Tutorial](https://www.youtube.com/watch?v=triTgcyF_IA).
+
+## Commands
+
+### Copying from local to server
+`scp /path/to/local/file your_server_alias:/path/to/remote/destination`
