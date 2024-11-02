@@ -21,6 +21,12 @@ Links to many resources that I think are useful.
 * Renaming a repo in VS code source control: [Blog post](https://mahdi-moosa.github.io/blog/2024/06/22/changing-github-remote-link/) 
 
 <!-- more -->
+## Genome Assembly Tutorials
+* https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/assembly/assembly/
+* https://github.com/aatxaerandio/Galaxy_Workflow_for_Genomic_Analysis
+* https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html
+* https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-illumina/tutorial.html
+* https://bioinformatics.uconn.edu/bacterial-genome-assembly-tutorial/
 
 ## LaTeX
 * Setting up LaTeX in VS Code: [YouTube Tutorial](https://www.youtube.com/watch?v=triTgcyF_IA).
@@ -30,3 +36,5 @@ Links to many resources that I think are useful.
 
 ### Copying from local to server
 `scp /path/to/local/file your_server_alias:/path/to/remote/destination`
+
+
