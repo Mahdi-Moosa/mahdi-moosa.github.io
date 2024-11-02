@@ -30,7 +30,7 @@ Links to many resources that I think are useful.
 
 ## LaTeX
 * Setting up LaTeX in VS Code: [YouTube Tutorial](https://www.youtube.com/watch?v=triTgcyF_IA).
-* MCQ typesetting in LaTeX: https://latex-tutorial.com/multiple-choice-questions-latex/
+* MCQ typesetting in LaTeX: [https://latex-tutorial.com/multiple-choice-questions-latex/](https://latex-tutorial.com/multiple-choice-questions-latex/)
 
 ## Commands
 
