@@ -25,7 +25,7 @@ Links to many resources that I think are useful.
 * [https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/assembly/assembly/](https://melbournebioinformatics.github.io/MelBioInf_docs/tutorials/assembly/assembly/)
 * [https://github.com/aatxaerandio/Galaxy_Workflow_for_Genomic_Analysis](https://github.com/aatxaerandio/Galaxy_Workflow_for_Genomic_Analysis)
 * [https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/general-introduction/tutorial.html)
-* https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-illumina/tutorial.html
+* [https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-illumina/tutorial.html](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/mrsa-illumina/tutorial.html)
 * [https://bioinformatics.uconn.edu/bacterial-genome-assembly-tutorial/](https://bioinformatics.uconn.edu/bacterial-genome-assembly-tutorial/)
 
 ## LaTeX
