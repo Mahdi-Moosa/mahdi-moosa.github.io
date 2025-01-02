@@ -33,7 +33,7 @@ Links to many resources that I think are useful.
 * MCQ typesetting in LaTeX: [https://latex-tutorial.com/multiple-choice-questions-latex/](https://latex-tutorial.com/multiple-choice-questions-latex/)
 
 ## Lenovo Laptop Black Screen (of Death) Issues
-* Use WinLogo + Ctrl + Shift + B: [Link] (https://www.stellarinfo.com/blog/fix-lenovo-laptop-black-screen-of-death-issue/). [Archive](https://web.archive.org/web/20250102005145/https://www.stellarinfo.com/blog/fix-lenovo-laptop-black-screen-of-death-issue/)
+* Use WinLogo + Ctrl + Shift + B: [Link](https://www.stellarinfo.com/blog/fix-lenovo-laptop-black-screen-of-death-issue/). [Archive](https://web.archive.org/web/20250102005145/https://www.stellarinfo.com/blog/fix-lenovo-laptop-black-screen-of-death-issue/)
 
 ## Commands
 
