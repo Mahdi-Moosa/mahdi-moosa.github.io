@@ -15,9 +15,9 @@ There are 4 carriers in Bangladesh. AFAIK, as per the govt. regulation, they hav
 
 <!-- more -->
 
-## ATM booth data (Banks in Bangladesh)
+## Mobile Data Pricing Comparison in Bangladesh
 
-*Mobile Data Pricing Comparison in Bangladesh*
+*Banglalink, GP, Robi, Teletalk Unlimited Validity Data Plans*
 
 
 | Carrier Name | Data Amount (GB) | Price (BDT) | Per GB Price (BDT) |
